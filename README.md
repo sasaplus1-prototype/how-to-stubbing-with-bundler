@@ -1,6 +1,6 @@
-# rspack-and-webpack-differences
+# how-to-stubbing-with-bundler
 
-rspack and webpack differences
+how to stubbing with bundler
 
 ## License
 
