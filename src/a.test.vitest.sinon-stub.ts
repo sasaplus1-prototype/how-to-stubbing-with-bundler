@@ -20,7 +20,7 @@ describe('sinon.stub', async () => {
     expect(stub).toHaveReturnedWith(Infinity);
 
     // restore
-    stub.mockRestore();
+    stub.restore();
 
     expect(a.aMain()).toBe(1);
   });
